@@ -13,5 +13,6 @@ public class LaunchBrowser {
 	 
 	 driver.get("https://www.facebook.com/");
 	 driver.get("https://www.google.com/");
+	 driver.get("https://www.google.com/");
 }
 }
